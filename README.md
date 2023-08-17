@@ -1,2 +1,2 @@
 # QuestoesEmC
-Um repositório para questões de diferentes plataformas de resolução de questões e, também, questões avulsas.
+Um repositório para questões de diferentes plataformas de juiz online e, também, questões avulsas.
